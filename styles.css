@@ -1,0 +1,50 @@
+/* External CSS: styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffeecc;
+}
+
+h1 {
+    color: #ff9933;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #ff6600;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #ff9933;
+    color: white;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
